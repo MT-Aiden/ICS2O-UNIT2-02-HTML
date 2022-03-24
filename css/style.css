@@ -1,3 +1,10 @@
-p1 {
-background-color: coral;
+/* Created by: Aiden McLeod
+* Created on: Sep 2020
+* This file contains the CSS for index.html
+*/
+
+.mdl-layout__content {
+  padding-left: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
 }
