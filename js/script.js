@@ -6,3 +6,10 @@
 /**
 * Does basic rentangle math
 */
+
+function doMathClicked() {
+
+  document.getElementById('area').innerHTML = '<p>The area is = ' + (5 * 3) + '</p>'
+  document.getElementById('perimeter').innerHTML = '<p>The perimeter is = ' + (5 * 2) + cm'</p>'
+
+}
