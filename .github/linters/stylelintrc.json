@@ -1,6 +1,0 @@
-{
-  "rules": {
-    // kebab-case
-    'selector-class-pattern': '^[a-z0-9]+(-?[a-z0-9]+)*$'
-  }
-}
