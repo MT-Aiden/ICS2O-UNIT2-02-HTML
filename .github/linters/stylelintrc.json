@@ -1,6 +1,6 @@
 {
-  "extends": "stylelint-config-standard",
   "rules": {
-    "selector-class-pattern":"^[a-z][a-z0-9_-]+$"
+    // kebab-case
+    'selector-class-pattern': '^[a-z0-9]+(-?[a-z0-9]+)*$'
   }
 }
